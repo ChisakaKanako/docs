@@ -1,0 +1,9 @@
+site_name: 中文跨性别维基文档存档
+theme:
+  name: material
+  language: zh
+  logo: static/icon.png
+  favicon: static/icon.png
+extra:
+    generator: false
+copyright: 本站所收集的文档版权归原著作权人所有，本站仅做二次摘抄及整理，不代表原版权方的立场或观点。
