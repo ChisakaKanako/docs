@@ -65,7 +65,3 @@ hide:
 [同志亦凡人《应对“扭转治疗”手册》](static/pdf/同志亦凡人《应对“扭转治疗”手册》.pdf)
 
 [智同《跨性别性健康手册2022年第一版》](static/pdf/智同《跨性别性健康手册2022年第一版》.pdf)
-
-## 字体
-
-[思源宋体](static/typeface/SourceHanSerifSC-VF.otf)
