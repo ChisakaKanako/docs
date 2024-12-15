@@ -4,6 +4,23 @@ theme:
   language: zh
   logo: static/icon2.png
   favicon: static/icon.png
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: 切换亮色模式
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: 切换深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: 跟随系统
 extra:
     generator: false
 copyright: 本站所收集的文档版权归原著作权人所有，本站仅做二次摘抄及整理，不代表原版权方的立场或观点。
+extra_css:
+  - stylesheets/extra.css
