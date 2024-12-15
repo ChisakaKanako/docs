@@ -2,11 +2,6 @@
     font-weight: bold !important;
     color: black !important;
   }
-@media (prefers-color-scheme: dark) {
-  h1 {
-      color: white !important;
-    }
-  }
   h2 {
     font-weight: bold !important;
   }
