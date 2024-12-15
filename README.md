@@ -8,16 +8,16 @@ Markdown
 
 PDF
 
-    docs/static/pdf/文件名.pdf
+    static/pdf/文件名.pdf
 
 ### 外链格式
 
 Markdown
 
-    https://transzh-program.github.io/docs/static/articles/文件名/
+    https://docs.transzh.org/static/articles/文件名/
     
-    https://transzh-program.github.io/docs/static/coverage/文件名/
+    https://docs.transzh.org/static/coverage/文件名/
 
 PDF
 
-    https://transzh-program.github.io/docs/static/pdf/文件名.pdf
+    https://docs.transzh.org/static/pdf/文件名.pdf
