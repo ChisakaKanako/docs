@@ -8,7 +8,7 @@ Markdown
 
 PDF
 
-    static/pdf/文件名.pdf
+    https://data.transzh.org/pdf/文件名.pdf
 
 ### 外链格式
 
@@ -20,4 +20,4 @@ Markdown
 
 PDF
 
-    https://docs.transzh.org/static/pdf/文件名.pdf
+    https://data.transzh.org/pdf/文件名.pdf
