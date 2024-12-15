@@ -60,22 +60,22 @@ hide:
 
 ## 社群调研（4）
 
-[北同文化《2021全国跨性别健康调研报告（勘误版）》](https://data.transzh.org/pdf/%E5%8C%97%E5%90%8C%E6%96%87%E5%8C%96%E3%80%8A2021%E5%85%A8%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A%EF%BC%88%E5%8B%98%E8%AF%AF%E7%89%88%EF%BC%89%E3%80%8B.pdf)
+[北同文化《2021全国跨性别健康调研报告（勘误版）》](https://data.transzh.org/pdf/北同文化《2021全国跨性别健康调研报告（勘误版）》.pdf)
 
-[北同文化与北大社会学系《2017中国跨性别群体生存现状调研报告》](https://data.transzh.org/pdf/%E5%8C%97%E5%90%8C%E6%96%87%E5%8C%96%E4%B8%8E%E5%8C%97%E5%A4%A7%E7%A4%BE%E4%BC%9A%E5%AD%A6%E7%B3%BB%E3%80%8A2017%E4%B8%AD%E5%9B%BD%E8%B7%A8%E6%80%A7%E5%88%AB%E7%BE%A4%E4%BD%93%E7%94%9F%E5%AD%98%E7%8E%B0%E7%8A%B6%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A%E3%80%8B.pdf)
+[北同文化与北大社会学系《2017中国跨性别群体生存现状调研报告》](https://data.transzh.org/pdf/北同文化与北大社会学系《2017中国跨性别群体生存现状调研报告》.pdf)
 
-[同语《中国多元性别女性的生活与权益研究报告》](https://data.transzh.org/pdf/%E5%90%8C%E8%AF%AD%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%AB%E5%A5%B3%E6%80%A7%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B8%8E%E6%9D%83%E7%9B%8A%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A%E3%80%8B.pdf)
+[同语《中国多元性别女性的生活与权益研究报告》](https://data.transzh.org/pdf/同语《中国多元性别女性的生活与权益研究报告》.pdf)
 
-[同语《中国多元性别未成年人的生活与权益》](https://data.transzh.org/pdf/%E5%90%8C%E8%AF%AD%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%AB%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B8%8E%E6%9D%83%E7%9B%8A%E3%80%8B.pdf)
+[同语《中国多元性别未成年人的生活与权益》](https://data.transzh.org/pdf/同语《中国多元性别未成年人的生活与权益》.pdf)
 
 ## 拓展资料（5）
 
-[爱白《跨性别：如何安全注射激素》](https://data.transzh.org/pdf/%E7%88%B1%E7%99%BD%E3%80%8A%E8%B7%A8%E6%80%A7%E5%88%AB%EF%BC%9A%E5%A6%82%E4%BD%95%E5%AE%89%E5%85%A8%E6%B3%A8%E5%B0%84%E6%BF%80%E7%B4%A0%E3%80%8B.pdf)
+[爱白《跨性别：如何安全注射激素》](https://data.transzh.org/pdf/爱白《跨性别：如何安全注射激素》.pdf)
 
-[北同文化《跨性别医疗手册（2022）》](https://data.transzh.org/pdf/%E5%8C%97%E5%90%8C%E6%96%87%E5%8C%96%E3%80%8A%E8%B7%A8%E6%80%A7%E5%88%AB%E5%8C%BB%E7%96%97%E6%89%8B%E5%86%8C%EF%BC%882022%EF%BC%89%E3%80%8B.pdf)
+[北同文化《跨性别医疗手册（2022）》](https://data.transzh.org/pdf/北同文化《跨性别医疗手册（2022）》.pdf)
 
-[国际跨性别健康杂志《跨性别和多元性别人群健康照护指南（第八版）》](https://data.transzh.org/pdf/%E5%9B%BD%E9%99%85%E8%B7%A8%E6%80%A7%E5%88%AB%E5%81%A5%E5%BA%B7%E6%9D%82%E5%BF%97%E3%80%8A%E8%B7%A8%E6%80%A7%E5%88%AB%E5%92%8C%E5%A4%9A%E5%85%83%E6%80%A7%E5%88%AB%E4%BA%BA%E7%BE%A4%E5%81%A5%E5%BA%B7%E7%85%A7%E6%8A%A4%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E5%85%AB%E7%89%88%EF%BC%89%E3%80%8B.pdf)
+[国际跨性别健康杂志《跨性别和多元性别人群健康照护指南（第八版）》](https://data.transzh.org/pdf/国际跨性别健康杂志《跨性别和多元性别人群健康照护指南（第八版）》.pdf)
 
-[同志亦凡人《应对“扭转治疗”手册》](https://data.transzh.org/pdf/%E5%90%8C%E5%BF%97%E4%BA%A6%E5%87%A1%E4%BA%BA%E3%80%8A%E5%BA%94%E5%AF%B9%E2%80%9C%E6%89%AD%E8%BD%AC%E6%B2%BB%E7%96%97%E2%80%9D%E6%89%8B%E5%86%8C%E3%80%8B.pdf)
+[同志亦凡人《应对“扭转治疗”手册》](https://data.transzh.org/pdf/同志亦凡人《应对“扭转治疗”手册》.pdf)
 
-[智同《跨性别性健康手册2022年第一版》](https://data.transzh.org/pdf/%E6%99%BA%E5%90%8C%E3%80%8A%E8%B7%A8%E6%80%A7%E5%88%AB%E6%80%A7%E5%81%A5%E5%BA%B7%E6%89%8B%E5%86%8C2022%E5%B9%B4%E7%AC%AC%E4%B8%80%E7%89%88%E3%80%8B.pdf)
+[智同《跨性别性健康手册2022年第一版》](https://data.transzh.org/pdf/智同《跨性别性健康手册2022年第一版》.pdf)
