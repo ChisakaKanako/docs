@@ -1,16 +1,12 @@
-@font-face {
-    font-family: "SourceHanSerif";
-    src: url("/typeface/SourceHanSerifSC-VF.otf");
-  }
-  :root {
-    --md-text-font: "SourceHanSerif";
-      font-weight: 600;
-  }
   h1 {
     font-weight: bold !important;
     color: black !important;
   }
-  
+@media (prefers-color-scheme: dark) {
+  h1 {
+      color: white !important;
+    }
+  }
   h2 {
     font-weight: bold !important;
   }
