@@ -1,4 +1,5 @@
 site_name: 中文跨性别维基存档
+site_url: https://docs.transzh.org
 theme:
   name: material
   language: zh
