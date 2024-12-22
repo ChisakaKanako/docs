@@ -11,4 +11,5 @@ h3 {
 }
 body {
   user-select: none !important;
+  -webkit-user-select: none !important;
 }
