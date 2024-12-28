@@ -24,6 +24,6 @@ theme:
     - navigation.top
 extra:
     generator: false
-copyright: 本站所收集的文档版权归原著作权人所有，本站仅做二次摘抄及整理，不代表原版权方的立场或观点。
+copyright: 本站所收集的内容版权归原著作权人所有，本站仅做二次摘抄及整理，不代表原版权方的立场或观点。
 extra_css:
   - stylesheets/extra.css
