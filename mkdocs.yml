@@ -1,9 +1,9 @@
-site_name: 中文跨性别维基文档
+site_name: 中文跨性别维基文档站
 site_url: https://docs.transzh.org
 theme:
   name: material
   language: zh
-  logo: static/icon2.png
+  logo: static/icon.png
   favicon: static/icon.png
   palette:
     - media: "(prefers-color-scheme)"
