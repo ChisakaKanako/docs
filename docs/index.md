@@ -165,3 +165,11 @@ hide:
 [一碗面皮《中国大陆地区跨性别出柜指南》](https://data.transzh.org/pdf/一碗面皮《中国大陆地区跨性别出柜指南》.pdf)
 
 [智同《跨性别性健康手册》](https://data.transzh.org/pdf/智同《跨性别性健康手册》.pdf)
+
+---
+
+## 友情链接
+
+[跨性别与多元性别文档档案馆](https://digital.transchinese.org/)
+
+[跨性别与多元性别新闻档案馆](https://news.transchinese.org/)
