@@ -166,7 +166,7 @@ hide:
 
 [智同《跨性别性健康手册》](https://data.transzh.org/pdf/智同《跨性别性健康手册》.pdf)
 
-## 更多资源存档
+## 友情链接
 
 [跨性别与多元性别文档档案馆](https://digital.transchinese.org/)
 
