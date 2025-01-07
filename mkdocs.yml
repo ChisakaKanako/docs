@@ -1,4 +1,4 @@
-site_name: 中文跨性别维基文档站
+site_name: 中文跨性别文档
 site_url: https://docs.transzh.org
 theme:
   name: material
@@ -20,10 +20,14 @@ theme:
       toggle:
         icon: material/brightness-4
         name: 跟随系统
-  features:
-    - navigation.top
+nav:
+  - 站点导航: index.md
+  - 贡献指南: contribute.md
+  - 友情链接: links.md
+markdown_extensions:
+  - attr_list
 extra:
-    generator: false
-copyright: 本站所收集的内容版权归原著作权人所有，本站仅做二次摘抄及整理，不代表原版权方的立场或观点。
+  generator: false
+copyright: 本站由中文跨性别维基维护与运营。本站所收集的内容版权归原著作权人所有，本站仅做二次摘抄、修订及整理，不代表原版权方的立场或观点。
 extra_css:
   - stylesheets/extra.css
