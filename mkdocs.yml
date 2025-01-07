@@ -2,6 +2,9 @@ site_name: 中文跨性别文档
 site_url: https://docs.transzh.org
 theme:
   name: material
+  custom_dir: overrides
+  features:
+    - announce.dismiss
   language: zh
   logo: static/icon.png
   favicon: static/icon.png
@@ -11,11 +14,13 @@ theme:
         icon: material/brightness-auto
         name: 切换亮色模式
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
+      primary: white
       toggle:
         icon: material/brightness-7
         name: 切换深色模式
     - media: "(prefers-color-scheme: dark)"
+      primary: black
       scheme: slate
       toggle:
         icon: material/brightness-4
