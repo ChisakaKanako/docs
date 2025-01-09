@@ -171,6 +171,8 @@
 
 [同志亦凡人《“遭遇扭转治疗怎么办？”——应对“扭转治疗”手册》](https://data.transzh.org/cn/pdf/同志亦凡人《“遭遇扭转治疗怎么办？”——应对“扭转治疗”手册》.pdf)
 
+[威廉姆斯研究所《中国大陆对LGBTQ群体的正面态度》](https://data.transzh.org/cn/pdf/威廉姆斯研究所《中国大陆对LGBTQ群体的正面态度》.pdf)
+
 [一碗面皮《中国大陆地区跨性别出柜指南》](https://data.transzh.org/cn/pdf/一碗面皮《中国大陆地区跨性别出柜指南》.pdf)
 
 [智同《跨性别性健康手册》](https://data.transzh.org/cn/pdf/智同《跨性别性健康手册》.pdf)
