@@ -133,7 +133,7 @@
 
 [同语《性与性别少数学生校园环境调查报告》](https://data.transzh.org/cn/pdf/同语《性与性别少数学生校园环境调查报告》.pdf)
 
-[同语《中国大陆跨性别与间性人的权利状况——对媒体报道的研究》](https://data.transzh.org/cn/pdf/同语《中国大陆跨性别与间性人的权利状况——对媒体报道的研究》)
+[同语《中国大陆跨性别与间性人的权利状况——对媒体报道的研究》](https://data.transzh.org/cn/pdf/同语《中国大陆跨性别与间性人的权利状况——对媒体报道的研究》.pdf)
 
 [同语《中国多元性别女性的生活与权益研究报告》](https://data.transzh.org/cn/pdf/同语《中国多元性别女性的生活与权益研究报告》.pdf)
 
@@ -143,7 +143,9 @@
 
 ## 拓展资料
 
-[爱白《跨性别：如何安全注射激素》](https://data.transzh.org/cn/pdf/爱白《跨性别：如何安全注射激素》.pdf)
+[爱白文化教育中心《跨性别：如何安全注射激素》](https://data.transzh.org/cn/pdf/爱白文化教育中心《跨性别：如何安全注射激素》.pdf)
+
+[爱白文化教育中心《跨性别ABC》](https://data.transzh.org/cn/pdf/爱白文化教育中心《跨性别ABC》.pdf)
 
 [北同文化《跨性别医疗手册（2022）》](https://data.transzh.org/cn/pdf/北同文化《跨性别医疗手册（2022）》.pdf)
 
@@ -153,13 +155,15 @@
 
 [国际特赦组织《“我需要家长同意才能做自己”——中国跨性别者寻求性别确认医疗程序时遇到的障碍》](https://data.transzh.org/cn/pdf/国际特赦组织《“我需要家长同意才能做自己”——中国跨性别者寻求性别确认医疗程序时遇到的障碍》.pdf)
 
+[跨儿文化《我的跨性别孩子——父母手册（上册）》](https://data.transzh.org/cn/pdf/跨儿文化《我的跨性别孩子——父母手册（上册）》.pdf)
+
 [跨青年教育中心《跨青年杂志第一期》](https://data.transzh.org/cn/pdf/跨青年教育中心《跨青年杂志第一期》.pdf)
 
 [跨青年教育中心《跨青年杂志第二期》](https://data.transzh.org/cn/pdf/跨青年教育中心《跨青年杂志第二期》.pdf)
 
-[跨青年教育中心《跨性别反暴力手册（社群版）》](https://data.transzh.org/cn/pdf/跨青年《跨性别反暴力手册（社群版）》.pdf)
+[跨青年教育中心《跨性别反暴力手册（社群版）》](https://data.transzh.org/cn/pdf/跨青年教育中心《跨性别反暴力手册（社群版）》.pdf)
 
-[跨青年教育中心《跨性别反暴力手册（专业版）》](https://data.transzh.org/cn/pdf/跨青年《跨性别反暴力手册（专业版）》.pdf)
+[跨青年教育中心《跨性别反暴力手册（专业版）》](https://data.transzh.org/cn/pdf/跨青年教育中心《跨性别反暴力手册（专业版）》.pdf)
 
 [跨青年教育中心《认识跨性别》](https://data.transzh.org/cn/pdf/跨青年教育中心《认识跨性别》.pdf)
 
