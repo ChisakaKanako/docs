@@ -182,4 +182,16 @@ Macaleo一个人去了上海的医院，诊断结果在她的预料之中：她�
 
 “如果能让跨性别治疗变得更强大，能提供更好的服务，让跨性别者们都能获得医疗支持，也算是实现了我的人生价值吧。”
 
-<a href="javascript:history.back()" class="md-button">返回内容索引</a>
+<a class="md-button" onclick="goBack()">返回内容索引</a>
+
+<script>
+function goBack() {
+  const domain = window.location.origin;
+  const ref = document.referrer;
+  if (ref.indexOf(domain) === 0 && window.history.length > 1) {
+    window.history.back();
+  } else {
+    window.location.href = '../../';
+  }
+}
+</script>
