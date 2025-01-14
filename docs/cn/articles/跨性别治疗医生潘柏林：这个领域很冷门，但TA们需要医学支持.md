@@ -3,6 +3,8 @@ hide:
   - navigation
 ---
 
+<!-- https://mp.weixin.qq.com/s/JZUTwNYGkMCNbzh-Y4n2tQ -->
+
 # 跨性别治疗医生潘柏林：这个领域很冷门，但TA们需要医学支持
 
 > 来源：医学界  

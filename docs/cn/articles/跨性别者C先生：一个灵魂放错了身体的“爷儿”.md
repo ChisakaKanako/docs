@@ -3,6 +3,8 @@ hide:
   - navigation
 ---
 
+<!-- https://mp.weixin.qq.com/s/cRCqIgZsDCdStE-cZirDpw -->
+
 # 跨性别者C先生：一个灵魂放错了身体的“爷儿”
 
 > 来源：每日人物  
