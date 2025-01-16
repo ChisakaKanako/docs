@@ -13,3 +13,10 @@ body {
   user-select: none !important;
   -webkit-user-select: none !important;
 }
+@font-face {
+  font-family: "Inter";
+  src: url(/static/Inter.ttf);
+}
+:root {
+  --md-text-font: "Inter" !important;
+}
