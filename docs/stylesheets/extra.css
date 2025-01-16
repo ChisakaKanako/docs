@@ -15,7 +15,7 @@ body {
 }
 @font-face {
   font-family: "Inter";
-  src: url(/static/Inter.ttf);
+  src: url(/static/Inter.ttf) format('truetype');
 }
 :root {
   --md-text-font: "Inter" !important;
