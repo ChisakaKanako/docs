@@ -14,7 +14,7 @@ body {
   -webkit-user-select: none !important;
 }
 @font-face {
-  font-family: "Inter";
+  font-family: "Inter", sans-serif;
   src: url(/static/Inter.ttf) format('truetype');
 }
 :root {
