@@ -1,8 +1,3 @@
----
-hide:
-  - toc
----
-
 # 社群调研专区 `12`
 
 [北京纪安德《中国跨性别者受教育权状况研究报告》](https://data.transzh.org/pdf/中国跨性别者受教育权状况研究报告.pdf)
@@ -28,5 +23,7 @@ hide:
 [同语《中国多元性别女性的生活与权益研究报告》](https://data.transzh.org/pdf/中国多元性别女性的生活与权益研究报告.pdf)
 
 [同语《中国多元性别未成年人的生活与权益》](https://data.transzh.org/pdf/中国多元性别未成年人的生活与权益.pdf)
+
+---
 
 [返回分类索引](../index.md){ .md-button }
