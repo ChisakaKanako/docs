@@ -26,7 +26,7 @@ theme:
         icon: material/brightness-4
         name: 跟随系统
 nav:
-  - 站点导航: index.md
+  - 分类索引: index.md
   - 贡献指南: contribute.md
   - 友情链接: links.md
 markdown_extensions:
