@@ -151,16 +151,4 @@ Justine的特别还体现在与C先生的前任不一样，她大方地接受拍
 
 在世俗眼里，C先生是一个生活在阳光背后的人，他没有与传统道德对抗的资本，更没有享受阳光的权利，事实上，他从来都是生而平等的人类，他明白对抗的意义，他也明白战斗的价值。现在，C先生的个人欲求与坚硬的现实还在发生碰撞，纵然疼痛无比，他却未曾想过停歇。
 
-<a class="md-button" onclick="goBack()">返回内容索引</a>
-
-<script>
-function goBack() {
-  const domain = window.location.origin;
-  const ref = document.referrer;
-  if (ref.indexOf(domain) === 0 && window.history.length > 1) {
-    window.history.back();
-  } else {
-    window.location.href = '../../';
-  }
-}
-</script>
+[返回内容索引](../article/index.md){ .md-button }
