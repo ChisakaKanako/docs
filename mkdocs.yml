@@ -2,7 +2,6 @@ site_name: 中文跨性别文档
 site_url: https://docs.transzh.org
 theme:
   name: material
-  custom_dir: overrides
   features:
     - announce.dismiss
   language: zh
