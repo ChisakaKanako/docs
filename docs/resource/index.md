@@ -1,4 +1,4 @@
-# 拓展资料专区 `21`
+# 拓展资料
 
 [爱白文化教育中心《跨性别：如何安全注射激素》](https://data.transzh.org/pdf/跨性别：如何安全注射激素.pdf)
 
@@ -41,7 +41,3 @@
 [一碗面皮《中国大陆地区跨性别出柜指南》](https://data.transzh.org/pdf/中国大陆地区跨性别出柜指南.pdf)
 
 [智同《跨性别性健康手册》](https://data.transzh.org/pdf/跨性别性健康手册.pdf)
-
----
-
-[返回分类索引](../index.md){ .md-button }

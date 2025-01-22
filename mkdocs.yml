@@ -1,4 +1,4 @@
-site_name: 中文跨性别文档
+site_name: docs
 site_url: https://docs.transzh.org
 theme:
   name: material
@@ -26,8 +26,6 @@ theme:
         name: 跟随系统
 nav:
   - 分类索引: index.md
-  - 贡献指南: contribute.md
-  - 友情链接: links.md
 markdown_extensions:
   - attr_list
 extra:
